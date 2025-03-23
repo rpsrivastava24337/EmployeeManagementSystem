@@ -1,4 +1,4 @@
-# Employee Management System Back-end - Spring Boot & MySQL
+# Employee Management System Back-end - Spring Boot & React
 - *Front-End  * using *React * is located here: https://github.com/rpsrivastava24337/EmployeeManagementSystem-Frontend
 1. [ Brief Summary ](#summary)
 2. [ Aims and Motivation ](#aims)
